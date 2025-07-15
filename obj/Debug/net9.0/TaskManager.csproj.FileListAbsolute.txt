@@ -1,0 +1,15 @@
+/Users/emmy/Documents/C#/TaskManager/bin/Debug/net9.0/TaskManager
+/Users/emmy/Documents/C#/TaskManager/bin/Debug/net9.0/TaskManager.deps.json
+/Users/emmy/Documents/C#/TaskManager/bin/Debug/net9.0/TaskManager.runtimeconfig.json
+/Users/emmy/Documents/C#/TaskManager/bin/Debug/net9.0/TaskManager.dll
+/Users/emmy/Documents/C#/TaskManager/bin/Debug/net9.0/TaskManager.pdb
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.AssemblyInfoInputs.cache
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.AssemblyInfo.cs
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.csproj.CoreCompileInputs.cache
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.sourcelink.json
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.dll
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/refint/TaskManager.dll
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.pdb
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/TaskManager.genruntimeconfig.cache
+/Users/emmy/Documents/C#/TaskManager/obj/Debug/net9.0/ref/TaskManager.dll
